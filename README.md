@@ -42,15 +42,23 @@ CSV Files: 12 CSV files containing sales data, each including columns for date, 
  #### Sales Analysis
 
 - Best Month for Sales: Determined by aggregating sales data by month and visualizing results with a bar chart.
+  ![Graph](/Capture.PNG)
+  
 - Top-Selling City: Identified by grouping data by city and summing sales figures. A city column was added, and results were visualized using a bar chart.
+  ![Graph](/Capture1.PNG)
+  
 - Optimal Advertisement Time: Analyzed purchase data by hour and minute to determine the best time for advertisements. A line graph was used to visualize peak purchasing 
   times.
+  ![Graph](/Capture2.PNG)
 
  #### Product Analysis
 
 - Frequently Sold Products Together: Identified pairs of products frequently sold together by finding duplicate values and counting pairs using itertools and collections.
+   ![Graph](/Capture3.PNG)
+  
 - Best-Selling Product: Analyzed sales data to identify the top-selling product and provided insights into why it was successful.
-
+  ![Graph](/Capture4.PNG)
+ 
  ### Recommendations
 
 - Target Advertising: Schedule advertisements during peak purchasing hours identified in the analysis to maximize sales.
